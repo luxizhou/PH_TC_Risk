@@ -1,0 +1,13 @@
+Dataset,Category,Total_Count,Average_Per_Year
+highres-future,Tropical Depression + Tropical Storm,137,3.8055555555555554
+highres-future,Category 1-2,7,0.19444444444444445
+highres-future,Category 3-5,4,0.1111111111111111
+highresSST-future,Tropical Depression + Tropical Storm,154,4.277777777777778
+highresSST-future,Category 1-2,3,0.08333333333333333
+highresSST-future,Category 3-5,4,0.1111111111111111
+highresSST-present,Tropical Depression + Tropical Storm,285,4.384615384615385
+highresSST-present,Category 1-2,8,0.12307692307692308
+highresSST-present,Category 3-5,0,0.0
+hist-1950,Tropical Depression + Tropical Storm,303,4.661538461538462
+hist-1950,Category 1-2,26,0.4
+hist-1950,Category 3-5,12,0.18461538461538463

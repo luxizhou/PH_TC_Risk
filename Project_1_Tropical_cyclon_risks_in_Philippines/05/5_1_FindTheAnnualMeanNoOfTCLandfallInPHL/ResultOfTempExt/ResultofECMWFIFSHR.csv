@@ -1,0 +1,19 @@
+Dataset,Category,Total_Count,Average_Per_Year
+highresSST-present Round 1,Tropical Depression + Tropical Storm,25,0.38461538461538464
+highresSST-present Round 1,Category 1-2,3,0.046153846153846156
+highresSST-present Round 1,Category 3-5,0,0.0
+highresSST-present Round 5,Tropical Depression + Tropical Storm,22,0.3384615384615385
+highresSST-present Round 5,Category 1-2,2,0.03076923076923077
+highresSST-present Round 5,Category 3-5,1,0.015384615384615385
+highresSST-present Round 6,Tropical Depression + Tropical Storm,20,0.3076923076923077
+highresSST-present Round 6,Category 1-2,1,0.015384615384615385
+highresSST-present Round 6,Category 3-5,3,0.046153846153846156
+hist-1950  Round 1,Tropical Depression + Tropical Storm,3,0.046153846153846156
+hist-1950  Round 1,Category 1-2,0,0.0
+hist-1950  Round 1,Category 3-5,0,0.0
+hist-1950  Round 5,Tropical Depression + Tropical Storm,7,0.1076923076923077
+hist-1950  Round 5,Category 1-2,0,0.0
+hist-1950  Round 5,Category 3-5,0,0.0
+hist-1950  Round 6,Tropical Depression + Tropical Storm,2,0.03076923076923077
+hist-1950  Round 6,Category 1-2,0,0.0
+hist-1950  Round 6,Category 3-5,0,0.0
